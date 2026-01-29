@@ -1,0 +1,306 @@
+id,element_in,element_out,entry,event,kind,result,web_name_x,web_name_y,total_points_in,total_points_out
+1,593,244,184679,1,w,di,De Ligt,Castagne,40.0,5.0
+2,593,387,228518,1,w,di,De Ligt,Shaw,40.0,2.0
+3,593,172,318371,1,w,a,De Ligt,James,40.0,5.0
+4,231,387,228518,1,f,a,Mykolenko,Shaw,38.0,2.0
+5,594,244,184679,1,f,a,Mazraoui,Castagne,44.0,5.0
+6,403,186,184585,2,w,di,Joelinton,Sterling,32.0,9.0
+7,135,186,184585,2,w,a,Minteh,Sterling,25.0,9.0
+8,617,512,325685,2,w,a,Evanilson,Antonio,63.0,40.0
+9,306,512,325685,2,w,do,Vardy,Antonio,58.0,40.0
+10,135,23,325685,2,w,di,Minteh,Trossard,25.0,47.0
+11,14,568,325685,2,w,a,Ramsdale,Muric,26.0,39.0
+12,443,568,325685,2,w,do,Sels,Muric,59.0,39.0
+13,403,565,324701,2,w,a,Joelinton,Sarabia,32.0,9.0
+14,409,591,184679,2,w,a,Livramento,Todibo,24.0,15.0
+15,617,424,228518,2,w,di,Evanilson,Awoniyi,63.0,11.0
+16,122,231,228518,2,w,a,Estupiñan,Mykolenko,18.0,37.0
+17,617,316,289293,2,w,di,Evanilson,Darwin,63.0,27.0
+18,566,316,289293,2,w,a,Strand Larsen,Darwin,63.0,27.0
+19,306,316,289293,2,w,do,Vardy,Darwin,58.0,27.0
+20,326,422,289293,2,w,a,Konaté,Aina,45.0,57.0
+21,162,236,289293,2,w,di,Colwill,Tarkowski,32.0,43.0
+22,162,422,289293,2,w,di,Colwill,Aina,32.0,57.0
+23,571,433,289293,2,w,a,Sávio,Gibbs-White,34.0,35.0
+24,434,433,289293,2,w,do,Hudson-Odoi,Gibbs-White,45.0,35.0
+25,145,422,289293,2,w,do,Veltman,Aina,26.0,57.0
+26,145,236,289293,2,w,a,Veltman,Tarkowski,26.0,43.0
+27,162,415,318371,2,w,a,Colwill,Schär,32.0,34.0
+28,162,415,318371,2,w,di,Colwill,Schär,32.0,34.0
+29,476,145,289293,2,f,a,Walker-Peters,Veltman,26.0,26.0
+30,354,23,325685,2,f,a,Kovačić,Trossard,34.0,47.0
+31,443,14,325685,2,f,a,Sels,Ramsdale,59.0,26.0
+32,306,424,228518,2,f,a,Vardy,Awoniyi,58.0,11.0
+33,434,550,289293,2,f,a,Hudson-Odoi,Hee Chan,45.0,8.0
+34,405,25,325685,2,f,a,Krafth,Zinchenko,4.0,9.0
+35,189,476,289293,2,f,a,W.Fofana,Walker-Peters,18.0,26.0
+36,177,385,324701,3,w,a,Madueke,Rashford,49.0,49.0
+37,524,333,324701,3,w,a,Kilman,Quansah,23.0,1.0
+38,433,403,324701,3,w,di,Gibbs-White,Joelinton,25.0,31.0
+39,177,329,228518,3,w,di,Madueke,Mac Allister,49.0,19.0
+40,88,578,289293,3,w,a,Collins,Calafiori,40.0,19.0
+41,177,585,184585,3,w,di,Madueke,I.Sarr,49.0,35.0
+42,433,432,184679,3,w,a,Gibbs-White,Elanga,25.0,26.0
+43,524,200,184679,3,w,di,Kilman,Guéhi,23.0,47.0
+44,177,360,184679,3,w,di,Madueke,Rodrigo,49.0,2.0
+45,6,405,325685,3,w,a,J.Timber,Krafth,40.0,2.0
+46,239,587,325685,3,w,a,Adama,Summerville,33.0,26.0
+47,316,268,317751,3,w,di,Darwin,Delap,26.0,54.0
+48,247,394,317751,3,w,a,Iwobi,Bruno G.,66.0,37.0
+49,11,268,317751,3,w,a,Nketiah,Delap,14.0,54.0
+50,316,375,318371,3,w,a,Darwin,Højlund,26.0,32.0
+51,621,9,318371,3,w,a,João Félix,Martinelli,12.0,44.0
+52,233,403,324701,3,f,a,Onana,Joelinton,20.0,31.0
+53,83,585,184585,3,f,a,Tavernier,I.Sarr,37.0,35.0
+54,186,560,318371,3,f,a,Sterling,Neto,9.0,24.0
+55,27,108,289293,3,f,a,Archer,Toney,32.0,0.0
+56,392,354,325685,4,w,a,Barnes,Kovačić,45.0,31.0
+57,36,191,325685,4,w,di,Digne,Andersen,31.0,20.0
+58,36,418,184585,4,w,a,Digne,Trippier,31.0,14.0
+59,23,13,184585,4,w,a,Trossard,Ødegaard,39.0,26.0
+60,268,497,184585,4,w,di,Delap,Richarlison,47.0,5.0
+61,268,27,289293,4,w,a,Delap,Archer,47.0,31.0
+62,375,27,289293,4,w,do,Højlund,Archer,32.0,31.0
+63,232,27,289293,4,w,do,Ndiaye,Archer,35.0,31.0
+64,38,27,289293,4,w,do,Duran,Archer,27.0,31.0
+65,36,88,289293,4,w,di,Digne,Collins,31.0,35.0
+66,144,88,289293,4,w,a,Van Hecke,Collins,19.0,35.0
+67,392,434,289293,4,w,di,Barnes,Hudson-Odoi,45.0,40.0
+68,385,434,289293,4,w,a,Rashford,Hudson-Odoi,47.0,40.0
+69,113,434,289293,4,w,do,Adingra,Hudson-Odoi,10.0,40.0
+70,23,434,289293,4,w,di,Trossard,Hudson-Odoi,39.0,40.0
+71,145,191,325685,4,f,a,Veltman,Andersen,22.0,20.0
+72,38,421,228518,4,f,a,Duran,Wilson,27.0,3.0
+73,516,171,184585,4,f,a,Coufal,Gusto,3.0,15.0
+74,512,497,184585,4,f,a,Antonio,Richarlison,36.0,5.0
+75,422,516,184585,4,f,a,Aina,Coufal,46.0,3.0
+76,232,589,184585,4,f,a,Ndiaye,Füllkrug,35.0,6.0
+77,13,329,228518,5,w,di,Ødegaard,Mac Allister,26.0,15.0
+78,13,186,318371,5,w,a,Ødegaard,Sterling,26.0,8.0
+79,123,453,324701,5,w,a,Ferguson,Armstrong,16.0,26.0
+80,9,392,325685,5,w,a,Martinelli,Barnes,40.0,37.0
+81,611,239,325685,5,w,a,Szmodics,Adama,30.0,22.0
+82,146,73,283372,5,w,a,Verbruggen,Neto,26.0,0.0
+83,568,73,283372,5,w,do,Muric,Neto,25.0,0.0
+84,557,343,283372,5,w,a,Mario Jr.,Bobb,25.0,0.0
+85,230,343,283372,5,w,do,McNeil,Bobb,43.0,0.0
+86,375,268,289293,5,w,a,Højlund,Delap,32.0,46.0
+87,349,571,289293,5,w,a,Grealish,Sávio,17.0,24.0
+88,230,78,289293,5,w,a,McNeil,Semenyo,43.0,32.0
+89,434,78,289293,5,w,do,Hudson-Odoi,Semenyo,33.0,32.0
+90,252,251,324701,5,f,a,Raúl,Muniz,49.0,18.0
+91,568,554,228518,5,f,a,Muric,José Sá,25.0,14.0
+92,14,568,228518,5,f,a,Ramsdale,Muric,21.0,25.0
+93,386,13,318371,5,f,a,Sancho,Ødegaard,34.0,26.0
+94,239,28,324701,6,w,a,Adama,Bailey,18.0,22.0
+95,392,233,324701,6,w,di,Barnes,Onana,27.0,8.0
+96,152,443,325685,6,w,a,Arrizabalaga,Sels,24.0,41.0
+97,392,611,325685,6,w,di,Barnes,Szmodics,27.0,28.0
+98,571,230,289293,6,w,di,Sávio,McNeil,17.0,41.0
+99,571,372,289293,6,w,di,Sávio,Garnacho,17.0,33.0
+100,78,230,289293,6,w,di,Semenyo,McNeil,30.0,41.0
+101,78,372,289293,6,w,di,Semenyo,Garnacho,30.0,33.0
+102,578,144,289293,6,w,di,Calafiori,Van Hecke,9.0,9.0
+103,268,566,289293,6,w,a,Delap,Strand Larsen,45.0,48.0
+104,106,230,289293,6,w,a,Schade,McNeil,42.0,41.0
+105,70,144,289293,6,w,a,Kerkez,Van Hecke,41.0,9.0
+106,70,255,289293,6,w,di,Kerkez,Robinson,41.0,32.0
+107,104,255,289293,6,w,a,Pinnock,Robinson,28.0,32.0
+108,88,255,289293,6,w,do,Collins,Robinson,34.0,32.0
+109,392,531,283372,6,w,a,Barnes,Ward-Prowse,27.0,4.0
+110,578,409,184679,6,w,a,Calafiori,Livramento,9.0,18.0
+111,13,360,184679,6,w,a,Ødegaard,Rodrigo,26.0,0.0
+112,364,360,184679,6,w,do,Amad,Rodrigo,33.0,0.0
+113,392,360,184679,6,w,di,Barnes,Rodrigo,27.0,0.0
+114,78,360,184679,6,w,di,Semenyo,Rodrigo,30.0,0.0
+115,338,409,184679,6,w,do,Van den Berg,Livramento,16.0,18.0
+116,571,346,318371,6,w,a,Sávio,Doku,17.0,28.0
+117,78,135,184585,6,w,a,Semenyo,Minteh,30.0,16.0
+118,392,135,184585,6,w,di,Barnes,Minteh,27.0,16.0
+119,434,106,289293,6,f,a,Hudson-Odoi,Schade,29.0,42.0
+120,171,388,184585,7,w,a,Gusto,Wan-Bissaka,14.0,35.0
+121,230,83,184585,7,w,di,McNeil,Tavernier,26.0,26.0
+122,230,525,324701,7,w,a,McNeil,Kudus,26.0,20.0
+123,491,233,324701,7,w,di,Johnson,Onana,42.0,6.0
+124,418,399,324701,7,w,a,Trippier,Hall,10.0,25.0
+125,566,123,324701,7,w,a,Strand Larsen,Ferguson,46.0,14.0
+126,255,200,184679,7,w,a,Robinson,Guéhi,25.0,29.0
+127,346,621,318371,7,w,a,Doku,João Félix,27.0,10.0
+128,491,611,325685,7,w,a,Johnson,Szmodics,42.0,27.0
+129,230,611,325685,7,w,di,McNeil,Szmodics,26.0,27.0
+130,88,145,325685,7,w,a,Collins,Veltman,32.0,14.0
+131,230,336,283372,7,w,di,McNeil,Szoboszlai,26.0,20.0
+132,230,329,228518,7,w,di,McNeil,Mac Allister,26.0,10.0
+133,491,329,228518,7,w,di,Johnson,Mac Allister,42.0,10.0
+134,295,341,228518,7,w,a,Justin,Aké,16.0,8.0
+135,418,341,228518,7,w,di,Trippier,Aké,10.0,8.0
+136,230,247,317751,7,w,di,McNeil,Iwobi,26.0,51.0
+137,354,247,317751,7,w,a,Kovačić,Iwobi,24.0,51.0
+138,491,434,289293,7,w,di,Johnson,Hudson-Odoi,42.0,28.0
+139,491,372,289293,7,w,di,Johnson,Garnacho,42.0,31.0
+140,230,372,289293,7,w,di,McNeil,Garnacho,26.0,31.0
+141,230,434,289293,7,w,di,McNeil,Hudson-Odoi,26.0,28.0
+142,625,434,289293,7,w,a,Gündogan,Hudson-Odoi,20.0,28.0
+143,298,434,289293,7,w,do,Mavididi,Hudson-Odoi,11.0,28.0
+144,115,434,289293,7,w,do,Baleba,Hudson-Odoi,16.0,28.0
+145,528,70,289293,7,w,a,Mavropanos,Kerkez,6.0,40.0
+146,255,70,289293,7,w,di,Robinson,Kerkez,25.0,40.0
+147,323,83,184585,8,w,a,Gravenberch,Tavernier,17.0,24.0
+148,574,528,289293,8,w,di,Milenković,Mavropanos,28.0,6.0
+149,200,528,289293,8,w,a,Guéhi,Mavropanos,27.0,6.0
+150,117,233,324701,8,w,a,Buonanotte,Onana,21.0,6.0
+151,574,524,324701,8,w,di,Milenković,Kilman,28.0,18.0
+152,436,524,324701,8,w,a,Murillo,Kilman,32.0,18.0
+153,618,557,283372,8,w,a,Georginio,Mario Jr.,25.0,20.0
+154,533,45,283372,8,w,a,Aït-Nouri,Maatsen,20.0,4.0
+155,89,336,283372,8,w,a,Damsgaard,Szoboszlai,36.0,19.0
+156,574,594,184679,8,w,a,Milenković,Mazraoui,28.0,18.0
+157,251,2,184679,8,w,a,Muniz,G.Jesus,7.0,6.0
+158,533,594,184679,8,w,di,Aït-Nouri,Mazraoui,20.0,18.0
+159,298,181,317751,8,f,a,Mavididi,Nkunku,8.0,18.0
+160,341,104,289293,8,f,a,Aké,Pinnock,8.0,19.0
+161,26,200,289293,8,f,a,Alex Moreno,Guéhi,20.0,27.0
+162,434,625,289293,8,f,a,Hudson-Odoi,Gündogan,26.0,18.0
+163,172,120,184585,9,w,a,James,Dunk,5.0,2.0
+164,443,396,324701,9,w,a,Sels,Dúbravka,25.0,0.0
+165,443,513,325685,9,w,di,Sels,Areola,25.0,0.0
+166,123,251,184679,9,w,a,Ferguson,Muniz,13.0,7.0
+167,27,251,184679,9,w,do,Archer,Muniz,13.0,7.0
+168,443,14,228518,9,w,di,Sels,Ramsdale,25.0,13.0
+169,497,389,228518,9,w,a,Richarlison,Zirkzee,4.0,22.0
+170,28,349,289293,9,w,a,Bailey,Grealish,13.0,6.0
+171,625,349,289293,9,w,do,Gündogan,Grealish,16.0,6.0
+172,247,434,289293,9,w,a,Iwobi,Hudson-Odoi,47.0,23.0
+173,104,26,289293,9,w,a,Pinnock,Alex Moreno,12.0,14.0
+174,587,349,289293,9,w,do,Summerville,Grealish,20.0,6.0
+175,57,349,289293,9,w,do,Tielemans,Grealish,12.0,6.0
+176,57,434,289293,9,w,do,Tielemans,Hudson-Odoi,12.0,23.0
+177,314,349,289293,9,w,do,Carvalho,Grealish,6.0,6.0
+178,570,349,289293,9,w,do,A.Fatawu,Grealish,6.0,6.0
+179,32,26,289293,9,w,do,Cash,Alex Moreno,10.0,14.0
+180,145,26,289293,9,w,do,Veltman,Alex Moreno,6.0,14.0
+181,338,26,289293,9,w,do,Van den Berg,Alex Moreno,12.0,14.0
+182,293,14,228518,9,f,a,Hermansen,Ramsdale,12.0,13.0
+183,594,52,184679,9,f,a,Mazraoui,Pau,17.0,11.0
+184,228,363,318371,9,f,a,Keane,Walker,3.0,4.0
+185,338,578,184679,9,f,a,Van den Berg,Calafiori,12.0,6.0
+186,219,338,184679,10,w,a,Branthwaite,Van den Berg,20.0,11.0
+187,389,497,228518,10,w,a,Zirkzee,Richarlison,18.0,4.0
+188,200,122,228518,10,w,di,Guéhi,Estupiñan,19.0,15.0
+189,238,122,228518,10,w,di,Young,Estupiñan,30.0,15.0
+190,145,122,228518,10,w,a,Veltman,Estupiñan,5.0,15.0
+191,200,267,324701,10,w,a,Guéhi,Davis,19.0,18.0
+192,325,513,325685,10,w,a,Kelleher,Areola,25.0,0.0
+193,238,506,325685,10,w,a,Young,Van de Ven,30.0,1.0
+194,200,506,325685,10,w,di,Guéhi,Van de Ven,19.0,1.0
+195,568,152,325685,10,w,a,Muric,Arrizabalaga,15.0,14.0
+196,274,346,318371,10,w,a,Hutchinson,Doku,19.0,16.0
+197,356,247,289293,10,w,a,Matheus N.,Iwobi,12.0,36.0
+198,356,28,289293,10,w,di,Matheus N.,Bailey,12.0,9.0
+199,611,28,289293,10,w,a,Szmodics,Bailey,18.0,9.0
+200,625,28,289293,10,w,do,Gündogan,Bailey,15.0,9.0
+201,434,28,289293,10,w,do,Hudson-Odoi,Bailey,21.0,9.0
+202,26,104,289293,10,w,a,Alex Moreno,Pinnock,13.0,11.0
+203,236,104,289293,10,w,do,Tarkowski,Pinnock,22.0,11.0
+204,257,104,289293,10,w,do,Tete,Pinnock,18.0,11.0
+205,200,104,289293,10,w,di,Guéhi,Pinnock,19.0,11.0
+206,434,433,184679,10,f,a,Hudson-Odoi,Gibbs-White,21.0,20.0
+207,247,611,289293,11,w,di,Iwobi,Szmodics,34.0,15.0
+208,399,219,184679,11,w,a,Hall,Branthwaite,7.0,19.0
+209,70,219,184679,11,w,di,Kerkez,Branthwaite,19.0,19.0
+210,247,323,184585,11,w,di,Iwobi,Gravenberch,34.0,11.0
+211,70,210,283372,11,w,a,Kerkez,Mitchell,19.0,9.0
+212,70,210,283372,11,w,di,Kerkez,Mitchell,19.0,9.0
+213,247,239,324701,11,w,a,Iwobi,Adama,34.0,4.0
+214,506,44,228518,11,w,a,Van de Ven,Konsa,1.0,12.0
+215,57,329,228518,11,w,a,Tielemans,Mac Allister,9.0,8.0
+216,14,293,228518,11,w,a,Ramsdale,Hermansen,0.0,9.0
+217,157,329,228518,11,w,do,Caicedo,Mac Allister,14.0,8.0
+218,27,11,317751,11,w,a,Archer,Nketiah,9.0,2.0
+219,625,274,318371,11,f,a,Gündogan,Hutchinson,10.0,16.0
+220,94,625,318371,11,f,a,Janelt,Gündogan,11.0,10.0
+221,364,94,318371,12,w,di,Amad,Janelt,25.0,6.0
+222,560,434,184679,12,w,a,Neto,Hudson-Odoi,4.0,10.0
+223,239,57,228518,12,w,a,Adama,Tielemans,3.0,8.0
+224,152,14,228518,12,w,a,Arrizabalaga,Ramsdale,12.0,0.0
+225,364,117,324701,12,w,a,Amad,Buonanotte,25.0,11.0
+226,107,220,324701,12,w,a,Thiago,Calvert-Lewin,5.0,8.0
+227,409,418,324701,12,w,a,Livramento,Trippier,4.0,2.0
+228,83,356,289293,12,w,a,Tavernier,Matheus N.,15.0,8.0
+229,71,356,289293,12,w,do,Kluivert,Matheus N.,27.0,8.0
+230,28,356,289293,12,w,do,Bailey,Matheus N.,6.0,8.0
+231,346,356,289293,12,w,do,Doku,Matheus N.,15.0,8.0
+232,324,356,289293,12,w,do,Jones,Matheus N.,10.0,8.0
+233,257,26,289293,12,w,a,Tete,Alex Moreno,10.0,3.0
+234,241,26,289293,12,w,do,Bassey,Alex Moreno,4.0,3.0
+235,236,26,289293,12,w,do,Tarkowski,Alex Moreno,13.0,3.0
+236,144,498,184679,12,f,a,Van Hecke,Romero,5.0,1.0
+237,578,144,184679,12,f,a,Calafiori,Van Hecke,6.0,5.0
+238,621,94,318371,12,f,a,João Félix,Janelt,9.0,6.0
+239,144,88,325685,12,f,a,Van Hecke,Collins,5.0,18.0
+240,293,142,184585,13,w,a,Hermansen,Steele,6.0,0.0
+241,220,123,184679,13,w,a,Calvert-Lewin,Ferguson,6.0,4.0
+242,421,123,184679,13,w,do,Wilson,Ferguson,2.0,4.0
+243,363,228,318371,13,w,a,Walker,Keane,3.0,0.0
+244,220,389,228518,13,w,di,Calvert-Lewin,Zirkzee,6.0,15.0
+245,26,24,228518,13,w,a,Alex Moreno,White,2.0,0.0
+246,421,389,228518,13,w,a,Wilson,Zirkzee,2.0,15.0
+247,557,239,228518,13,w,a,Mario Jr.,Adama,4.0,2.0
+248,434,239,228518,13,w,di,Hudson-Odoi,Adama,8.0,2.0
+249,267,24,228518,13,w,do,Davis,White,5.0,0.0
+250,554,152,228518,13,w,a,José Sá,Arrizabalaga,0.0,11.0
+251,453,38,228518,13,w,a,Armstrong,Duran,8.0,9.0
+252,553,239,228518,13,w,do,J.Gomes,Adama,5.0,2.0
+253,388,70,283372,13,w,a,Wan-Bissaka,Kerkez,9.0,17.0
+254,488,201,289293,13,w,a,Forster,Henderson,8.0,10.0
+255,434,83,289293,13,w,a,Hudson-Odoi,Tavernier,8.0,13.0
+256,26,257,289293,13,w,di,Alex Moreno,Tete,2.0,7.0
+257,88,257,289293,13,w,a,Collins,Tete,12.0,7.0
+258,403,354,317751,13,f,a,Joelinton,Kovačić,5.0,0.0
+259,415,172,184585,13,f,a,Schär,James,9.0,0.0
+260,267,574,184679,14,w,a,Davis,Milenković,3.0,7.0
+261,52,574,184679,14,w,do,Pau,Milenković,6.0,7.0
+262,70,574,184679,14,w,do,Kerkez,Milenković,10.0,7.0
+263,389,421,228518,14,w,a,Zirkzee,Wilson,2.0,2.0
+264,71,557,228518,14,w,a,Kluivert,Mario Jr.,5.0,3.0
+265,201,554,228518,14,w,a,Henderson,José Sá,8.0,0.0
+266,267,26,228518,14,w,di,Davis,Alex Moreno,3.0,1.0
+267,520,145,228518,14,w,a,Emerson,Veltman,2.0,0.0
+268,152,554,228518,14,w,do,Arrizabalaga,José Sá,10.0,0.0
+269,553,557,228518,14,w,do,J.Gomes,Mario Jr.,3.0,3.0
+270,117,557,228518,14,w,di,Buonanotte,Mario Jr.,3.0,3.0
+271,117,177,324701,14,w,a,Buonanotte,Madueke,3.0,14.0
+272,236,409,324701,14,w,a,Tarkowski,Livramento,6.0,1.0
+273,291,200,324701,14,w,a,Faes,Guéhi,2.0,7.0
+274,241,26,228518,14,f,a,Bassey,Alex Moreno,3.0,1.0
+275,44,189,289293,14,f,a,Konsa,W.Fofana,10.0,0.0
+276,257,88,289293,14,f,a,Tete,Collins,5.0,7.0
+277,274,611,289293,14,f,a,Hutchinson,Szmodics,4.0,2.0
+278,587,434,289293,14,f,a,Summerville,Hudson-Odoi,6.0,5.0
+279,585,587,289293,14,f,a,I.Sarr,Summerville,4.0,6.0
+280,635,230,324701,15,w,a,El Khannouss,McNeil,2.0,0.0
+281,70,236,324701,15,w,di,Kerkez,Tarkowski,2.0,0.0
+282,394,117,324701,15,w,a,Bruno G.,Buonanotte,2.0,0.0
+283,70,267,184679,15,w,a,Kerkez,Davis,2.0,1.0
+284,177,71,228518,15,w,di,Madueke,Kluivert,1.0,2.0
+285,152,201,228518,15,w,a,Arrizabalaga,Henderson,3.0,1.0
+286,346,585,289293,15,w,a,Doku,I.Sarr,1.0,2.0
+287,83,274,289293,15,w,a,Tavernier,Hutchinson,2.0,2.0
+288,259,274,289293,15,w,do,Wilson,Hutchinson,1.0,2.0
+289,106,585,289293,15,w,do,Schade,I.Sarr,6.0,2.0
+290,259,585,289293,15,w,do,Wilson,I.Sarr,1.0,2.0
+291,177,274,289293,15,w,di,Madueke,Hutchinson,1.0,2.0
+292,152,488,289293,15,w,di,Arrizabalaga,Forster,3.0,1.0
+293,524,257,289293,15,w,a,Kilman,Tete,2.0,5.0
+294,70,257,289293,15,w,di,Kerkez,Tete,2.0,5.0
+295,104,257,289293,15,w,do,Pinnock,Tete,1.0,5.0
+296,177,323,184585,15,w,di,Madueke,Gravenberch,1.0,0.0
+297,38,512,184585,15,w,a,Duran,Antonio,8.0,0.0
+298,177,298,317751,15,w,a,Madueke,Mavididi,1.0,1.0
+299,574,241,228518,15,f,a,Milenković,Bassey,7.0,1.0
+300,168,71,228518,15,f,a,Enzo,Kluivert,9.0,2.0
+301,88,291,324701,15,f,a,Collins,Faes,7.0,1.0
+302,572,88,324701,15,f,a,Yoro,Collins,1.0,7.0
+303,358,508,318371,15,f,a,Ortega Moreno,Vicario,1.0,0.0
+304,530,323,184585,15,f,a,Souček,Gravenberch,9.0,0.0
+305,251,232,184585,15,f,a,Muniz,Ndiaye,1.0,0.0

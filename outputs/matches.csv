@@ -1,0 +1,381 @@
+gw,finished,team,team_name,team_player_first_name,team_player_last_name,opponent,opponent_name,opponent_player_first_name,opponent_player_last_name,team_points,opponent_points,points_difference,team_result,result_points,cumulative_team_points,cumulative_opponent_points,cumulative_result_points,league_position,gw_team_points_rank,gw_opponent_points_rank
+1,True,229876,Boom Boom Eagle FC,Sam,Thorpe,185622,Kernowfornia United,Scott,Renfree-Tuck,58,35,23,Win,3,58,35,3,1,1.0,7.0
+1,True,320432,Some Solanke-Panky?,Alex,Turnbull,327410,Eleven Hags,Liam,Thaker,54,34,20,Win,3,54,34,3,2,2.0,8.0
+1,True,285674,CripplingHannover96,Ryan,McIntyre,336507,Average,,,46,41,5,Win,3,46,41,3,3,3.0,5.0
+1,True,291619,*Stratford Sardines*,Flat,7,328396,TAA very much,James,Mason,45,39,6,Win,3,45,39,3,4,4.0,6.0
+1,True,185528,Easy Three Points,Jonathan,Ako,321053,Up the Ding,Matthew,Stent,33,32,1,Win,3,33,32,3,5,9.0,10.0
+1,True,336507,Average,,,285674,CripplingHannover96,Ryan,McIntyre,41,46,-5,Lose,0,41,46,0,6,5.0,3.0
+1,True,328396,TAA very much,James,Mason,291619,*Stratford Sardines*,Flat,7,39,45,-6,Lose,0,39,45,0,7,6.0,4.0
+1,True,185622,Kernowfornia United,Scott,Renfree-Tuck,229876,Boom Boom Eagle FC,Sam,Thorpe,35,58,-23,Lose,0,35,58,0,8,7.0,1.0
+1,True,327410,Eleven Hags,Liam,Thaker,320432,Some Solanke-Panky?,Alex,Turnbull,34,54,-20,Lose,0,34,54,0,9,8.0,2.0
+1,True,321053,Up the Ding,Matthew,Stent,185528,Easy Three Points,Jonathan,Ako,32,33,-1,Lose,0,32,33,0,10,10.0,9.0
+2,True,229876,Boom Boom Eagle FC,Sam,Thorpe,336507,Average,,,58,45,13,Win,3,116,80,6,1,2.0,6.0
+2,True,320432,Some Solanke-Panky?,Alex,Turnbull,321053,Up the Ding,Matthew,Stent,46,36,10,Win,3,100,70,6,2,5.0,8.0
+2,True,291619,*Stratford Sardines*,Flat,7,327410,Eleven Hags,Liam,Thaker,48,18,30,Win,3,93,57,6,3,4.0,10.0
+2,True,185622,Kernowfornia United,Scott,Renfree-Tuck,185528,Easy Three Points,Jonathan,Ako,77,33,44,Win,3,112,91,3,4,1.0,9.0
+2,True,328396,TAA very much,James,Mason,285674,CripplingHannover96,Ryan,McIntyre,51,39,12,Win,3,90,84,3,5,3.0,7.0
+2,True,285674,CripplingHannover96,Ryan,McIntyre,328396,TAA very much,James,Mason,39,51,-12,Lose,0,85,92,3,6,7.0,3.0
+2,True,185528,Easy Three Points,Jonathan,Ako,185622,Kernowfornia United,Scott,Renfree-Tuck,33,77,-44,Lose,0,66,109,3,7,9.0,1.0
+2,True,336507,Average,,,229876,Boom Boom Eagle FC,Sam,Thorpe,45,58,-13,Lose,0,86,104,0,8,6.0,2.0
+2,True,321053,Up the Ding,Matthew,Stent,320432,Some Solanke-Panky?,Alex,Turnbull,36,46,-10,Lose,0,68,79,0,9,8.0,5.0
+2,True,327410,Eleven Hags,Liam,Thaker,291619,*Stratford Sardines*,Flat,7,18,48,-30,Lose,0,52,102,0,10,10.0,4.0
+3,True,229876,Boom Boom Eagle FC,Sam,Thorpe,285674,CripplingHannover96,Ryan,McIntyre,49,43,6,Win,3,165,123,9,1,2.0,4.0
+3,True,185622,Kernowfornia United,Scott,Renfree-Tuck,291619,*Stratford Sardines*,Flat,7,48,37,11,Win,3,160,128,6,2,3.0,7.0
+3,True,328396,TAA very much,James,Mason,321053,Up the Ding,Matthew,Stent,51,26,25,Win,3,141,110,6,3,1.0,9.0
+3,True,291619,*Stratford Sardines*,Flat,7,185622,Kernowfornia United,Scott,Renfree-Tuck,37,48,-11,Lose,0,130,105,6,4,7.0,3.0
+3,True,320432,Some Solanke-Panky?,Alex,Turnbull,336507,Average,,,23,38,-15,Lose,0,123,108,6,5,10.0,6.0
+3,True,285674,CripplingHannover96,Ryan,McIntyre,229876,Boom Boom Eagle FC,Sam,Thorpe,43,49,-6,Lose,0,128,141,3,6,4.0,2.0
+3,True,336507,Average,,,320432,Some Solanke-Panky?,Alex,Turnbull,38,23,15,Win,3,124,127,3,7,6.0,10.0
+3,True,185528,Easy Three Points,Jonathan,Ako,327410,Eleven Hags,Liam,Thaker,30,41,-11,Lose,0,96,150,3,8,8.0,5.0
+3,True,327410,Eleven Hags,Liam,Thaker,185528,Easy Three Points,Jonathan,Ako,41,30,11,Win,3,93,132,3,9,5.0,8.0
+3,True,321053,Up the Ding,Matthew,Stent,328396,TAA very much,James,Mason,26,51,-25,Lose,0,94,130,0,10,9.0,1.0
+4,True,229876,Boom Boom Eagle FC,Sam,Thorpe,185528,Easy Three Points,Jonathan,Ako,34,32,2,Win,3,199,155,12,1,7.0,9.0
+4,True,185622,Kernowfornia United,Scott,Renfree-Tuck,285674,CripplingHannover96,Ryan,McIntyre,50,33,17,Win,3,210,161,9,2,2.0,8.0
+4,True,291619,*Stratford Sardines*,Flat,7,336507,Average,,,44,40,4,Win,3,174,145,9,3,4.0,5.0
+4,True,320432,Some Solanke-Panky?,Alex,Turnbull,328396,TAA very much,James,Mason,49,38,11,Win,3,172,146,9,4,3.0,6.0
+4,True,328396,TAA very much,James,Mason,320432,Some Solanke-Panky?,Alex,Turnbull,38,49,-11,Lose,0,179,159,6,5,6.0,3.0
+4,True,336507,Average,,,291619,*Stratford Sardines*,Flat,7,40,44,-4,Lose,0,164,171,3,6,5.0,4.0
+4,True,285674,CripplingHannover96,Ryan,McIntyre,185622,Kernowfornia United,Scott,Renfree-Tuck,33,50,-17,Lose,0,161,191,3,7,8.0,2.0
+4,True,321053,Up the Ding,Matthew,Stent,327410,Eleven Hags,Liam,Thaker,52,30,22,Win,3,146,160,3,8,1.0,10.0
+4,True,185528,Easy Three Points,Jonathan,Ako,229876,Boom Boom Eagle FC,Sam,Thorpe,32,34,-2,Lose,0,128,184,3,9,9.0,7.0
+4,True,327410,Eleven Hags,Liam,Thaker,321053,Up the Ding,Matthew,Stent,30,52,-22,Lose,0,123,184,3,10,10.0,1.0
+5,True,229876,Boom Boom Eagle FC,Sam,Thorpe,320432,Some Solanke-Panky?,Alex,Turnbull,46,41,5,Win,3,245,196,15,1,3.5,7.5
+5,True,291619,*Stratford Sardines*,Flat,7,285674,CripplingHannover96,Ryan,McIntyre,46,43,3,Win,3,220,188,12,2,3.5,5.0
+5,True,185622,Kernowfornia United,Scott,Renfree-Tuck,321053,Up the Ding,Matthew,Stent,41,52,-11,Lose,0,251,213,9,3,7.5,1.0
+5,True,328396,TAA very much,James,Mason,185528,Easy Three Points,Jonathan,Ako,48,37,11,Win,3,227,196,9,4,2.0,9.0
+5,True,320432,Some Solanke-Panky?,Alex,Turnbull,229876,Boom Boom Eagle FC,Sam,Thorpe,41,46,-5,Lose,0,213,192,9,5,7.5,3.5
+5,True,336507,Average,,,327410,Eleven Hags,Liam,Thaker,42,26,16,Win,3,206,197,6,6,6.0,10.0
+5,True,321053,Up the Ding,Matthew,Stent,185622,Kernowfornia United,Scott,Renfree-Tuck,52,41,11,Win,3,198,201,6,7,1.0,7.5
+5,True,285674,CripplingHannover96,Ryan,McIntyre,291619,*Stratford Sardines*,Flat,7,43,46,-3,Lose,0,204,237,3,8,5.0,3.5
+5,True,185528,Easy Three Points,Jonathan,Ako,328396,TAA very much,James,Mason,37,48,-11,Lose,0,165,232,3,9,9.0,2.0
+5,True,327410,Eleven Hags,Liam,Thaker,336507,Average,,,26,42,-16,Lose,0,149,226,3,10,10.0,6.0
+6,True,229876,Boom Boom Eagle FC,Sam,Thorpe,291619,*Stratford Sardines*,Flat,7,31,39,-8,Lose,0,276,235,15,1,9.0,4.0
+6,True,291619,*Stratford Sardines*,Flat,7,229876,Boom Boom Eagle FC,Sam,Thorpe,39,31,8,Win,3,259,219,15,2,4.0,9.0
+6,True,328396,TAA very much,James,Mason,327410,Eleven Hags,Liam,Thaker,44,34,10,Win,3,271,230,12,3,3.0,7.0
+6,True,320432,Some Solanke-Panky?,Alex,Turnbull,185622,Kernowfornia United,Scott,Renfree-Tuck,49,33,16,Win,3,262,225,12,4,1.0,8.0
+6,True,185622,Kernowfornia United,Scott,Renfree-Tuck,320432,Some Solanke-Panky?,Alex,Turnbull,33,49,-16,Lose,0,284,262,9,5,8.0,1.0
+6,True,336507,Average,,,321053,Up the Ding,Matthew,Stent,38,27,11,Win,3,244,224,9,6,5.5,10.0
+6,True,321053,Up the Ding,Matthew,Stent,336507,Average,,,27,38,-11,Lose,0,225,239,6,7,10.0,5.5
+6,True,185528,Easy Three Points,Jonathan,Ako,285674,CripplingHannover96,Ryan,McIntyre,47,38,9,Win,3,212,270,6,8,2.0,5.5
+6,True,285674,CripplingHannover96,Ryan,McIntyre,185528,Easy Three Points,Jonathan,Ako,38,47,-9,Lose,0,242,284,3,9,5.5,2.0
+6,True,327410,Eleven Hags,Liam,Thaker,328396,TAA very much,James,Mason,34,44,-10,Lose,0,183,270,3,10,7.0,3.0
+7,True,229876,Boom Boom Eagle FC,Sam,Thorpe,327410,Eleven Hags,Liam,Thaker,43,43,0,Draw,1,319,278,16,1,7.0,7.0
+7,True,328396,TAA very much,James,Mason,185622,Kernowfornia United,Scott,Renfree-Tuck,48,46,2,Win,3,319,276,15,2,2.0,4.0
+7,True,320432,Some Solanke-Panky?,Alex,Turnbull,291619,*Stratford Sardines*,Flat,7,53,47,6,Win,3,315,272,15,3,1.0,3.0
+7,True,291619,*Stratford Sardines*,Flat,7,320432,Some Solanke-Panky?,Alex,Turnbull,47,53,-6,Lose,0,306,272,15,4,3.0,1.0
+7,True,185622,Kernowfornia United,Scott,Renfree-Tuck,328396,TAA very much,James,Mason,46,48,-2,Lose,0,330,310,9,5,4.0,2.0
+7,True,336507,Average,,,185528,Easy Three Points,Jonathan,Ako,43,45,-2,Lose,0,287,269,9,6,7.0,5.0
+7,True,321053,Up the Ding,Matthew,Stent,285674,CripplingHannover96,Ryan,McIntyre,35,34,1,Win,3,260,273,9,7,9.0,10.0
+7,True,185528,Easy Three Points,Jonathan,Ako,336507,Average,,,45,43,2,Win,3,257,313,9,8,5.0,7.0
+7,True,327410,Eleven Hags,Liam,Thaker,229876,Boom Boom Eagle FC,Sam,Thorpe,43,43,0,Draw,1,226,313,4,9,7.0,7.0
+7,True,285674,CripplingHannover96,Ryan,McIntyre,321053,Up the Ding,Matthew,Stent,34,35,-1,Lose,0,276,319,3,10,10.0,9.0
+8,True,229876,Boom Boom Eagle FC,Sam,Thorpe,321053,Up the Ding,Matthew,Stent,29,27,2,Win,3,348,305,19,1,6.0,7.0
+8,True,291619,*Stratford Sardines*,Flat,7,185528,Easy Three Points,Jonathan,Ako,37,56,-19,Lose,0,343,328,15,2,4.0,1.5
+8,True,320432,Some Solanke-Panky?,Alex,Turnbull,285674,CripplingHannover96,Ryan,McIntyre,22,39,-17,Lose,0,337,311,15,3,8.0,3.0
+8,True,328396,TAA very much,James,Mason,336507,Average,,,14,33,-19,Lose,0,333,309,15,4,10.0,5.0
+8,True,336507,Average,,,328396,TAA very much,James,Mason,33,14,19,Win,3,320,283,12,5,5.0,10.0
+8,True,185528,Easy Three Points,Jonathan,Ako,291619,*Stratford Sardines*,Flat,7,56,37,19,Win,3,313,350,12,6,1.5,4.0
+8,True,185622,Kernowfornia United,Scott,Renfree-Tuck,327410,Eleven Hags,Liam,Thaker,21,56,-35,Lose,0,351,366,9,7,9.0,1.5
+8,True,321053,Up the Ding,Matthew,Stent,229876,Boom Boom Eagle FC,Sam,Thorpe,27,29,-2,Lose,0,287,302,9,8,7.0,6.0
+8,True,327410,Eleven Hags,Liam,Thaker,185622,Kernowfornia United,Scott,Renfree-Tuck,56,21,35,Win,3,282,334,7,9,1.5,9.0
+8,True,285674,CripplingHannover96,Ryan,McIntyre,320432,Some Solanke-Panky?,Alex,Turnbull,39,22,17,Win,3,315,341,6,10,3.0,8.0
+9,True,229876,Boom Boom Eagle FC,Sam,Thorpe,328396,TAA very much,James,Mason,40,23,17,Win,3,388,328,22,1,4.0,10.0
+9,True,291619,*Stratford Sardines*,Flat,7,321053,Up the Ding,Matthew,Stent,27,44,-17,Lose,0,370,372,15,2,8.0,3.0
+9,True,320432,Some Solanke-Panky?,Alex,Turnbull,185528,Easy Three Points,Jonathan,Ako,27,39,-12,Lose,0,364,350,15,3,8.0,5.0
+9,True,328396,TAA very much,James,Mason,229876,Boom Boom Eagle FC,Sam,Thorpe,23,40,-17,Lose,0,356,349,15,4,10.0,4.0
+9,True,185528,Easy Three Points,Jonathan,Ako,320432,Some Solanke-Panky?,Alex,Turnbull,39,27,12,Win,3,352,377,15,5,5.0,8.0
+9,True,185622,Kernowfornia United,Scott,Renfree-Tuck,336507,Average,,,53,36,17,Win,3,404,402,12,6,1.0,6.0
+9,True,336507,Average,,,185622,Kernowfornia United,Scott,Renfree-Tuck,36,53,-17,Lose,0,356,336,12,7,6.0,1.0
+9,True,321053,Up the Ding,Matthew,Stent,291619,*Stratford Sardines*,Flat,7,44,27,17,Win,3,331,329,12,8,3.0,8.0
+9,True,285674,CripplingHannover96,Ryan,McIntyre,327410,Eleven Hags,Liam,Thaker,48,27,21,Win,3,363,368,9,9,2.0,8.0
+9,True,327410,Eleven Hags,Liam,Thaker,285674,CripplingHannover96,Ryan,McIntyre,27,48,-21,Lose,0,309,382,7,10,8.0,2.0
+10,True,229876,Boom Boom Eagle FC,Sam,Thorpe,185622,Kernowfornia United,Scott,Renfree-Tuck,34,41,-7,Lose,0,422,369,22,1,7.0,5.0
+10,True,185528,Easy Three Points,Jonathan,Ako,321053,Up the Ding,Matthew,Stent,51,28,23,Win,3,403,405,18,2,1.0,9.0
+10,True,328396,TAA very much,James,Mason,291619,*Stratford Sardines*,Flat,7,47,42,5,Win,3,403,391,18,3,2.0,4.0
+10,True,185622,Kernowfornia United,Scott,Renfree-Tuck,229876,Boom Boom Eagle FC,Sam,Thorpe,41,34,7,Win,3,445,436,15,4,5.0,7.0
+10,True,291619,*Stratford Sardines*,Flat,7,328396,TAA very much,James,Mason,42,47,-5,Lose,0,412,419,15,5,4.0,2.0
+10,True,336507,Average,,,285674,CripplingHannover96,Ryan,McIntyre,37,29,8,Win,3,393,365,15,6,6.0,8.0
+10,True,320432,Some Solanke-Panky?,Alex,Turnbull,327410,Eleven Hags,Liam,Thaker,22,44,-22,Lose,0,386,394,15,7,10.0,3.0
+10,True,321053,Up the Ding,Matthew,Stent,185528,Easy Three Points,Jonathan,Ako,28,51,-23,Lose,0,359,380,12,8,9.0,1.0
+10,True,327410,Eleven Hags,Liam,Thaker,320432,Some Solanke-Panky?,Alex,Turnbull,44,22,22,Win,3,353,404,10,9,3.0,10.0
+10,True,285674,CripplingHannover96,Ryan,McIntyre,336507,Average,,,29,37,-8,Lose,0,392,405,9,10,8.0,6.0
+11,True,229876,Boom Boom Eagle FC,Sam,Thorpe,336507,Average,,,39,39,0,Draw,1,461,408,23,1,6.0,6.0
+11,True,185622,Kernowfornia United,Scott,Renfree-Tuck,185528,Easy Three Points,Jonathan,Ako,46,19,27,Win,3,491,455,18,2,4.0,10.0
+11,True,291619,*Stratford Sardines*,Flat,7,327410,Eleven Hags,Liam,Thaker,52,34,18,Win,3,464,453,18,3,2.0,8.0
+11,True,328396,TAA very much,James,Mason,285674,CripplingHannover96,Ryan,McIntyre,39,54,-15,Lose,0,442,445,18,4,6.0,1.0
+11,True,185528,Easy Three Points,Jonathan,Ako,185622,Kernowfornia United,Scott,Renfree-Tuck,19,46,-27,Lose,0,422,451,18,5,10.0,4.0
+11,True,336507,Average,,,229876,Boom Boom Eagle FC,Sam,Thorpe,39,39,0,Draw,1,432,404,16,6,6.0,6.0
+11,True,320432,Some Solanke-Panky?,Alex,Turnbull,321053,Up the Ding,Matthew,Stent,21,47,-26,Lose,0,407,441,15,7,9.0,3.0
+11,True,321053,Up the Ding,Matthew,Stent,320432,Some Solanke-Panky?,Alex,Turnbull,47,21,26,Win,3,406,401,15,8,3.0,9.0
+11,True,285674,CripplingHannover96,Ryan,McIntyre,328396,TAA very much,James,Mason,54,39,15,Win,3,446,444,12,9,1.0,6.0
+11,True,327410,Eleven Hags,Liam,Thaker,291619,*Stratford Sardines*,Flat,7,34,52,-18,Lose,0,387,456,10,10,8.0,2.0
+12,True,229876,Boom Boom Eagle FC,Sam,Thorpe,285674,CripplingHannover96,Ryan,McIntyre,25,36,-11,Lose,0,486,444,23,1,10.0,6.0
+12,True,185622,Kernowfornia United,Scott,Renfree-Tuck,291619,*Stratford Sardines*,Flat,7,49,26,23,Win,3,540,481,21,2,2.0,8.5
+12,True,328396,TAA very much,James,Mason,321053,Up the Ding,Matthew,Stent,46,44,2,Win,3,488,489,21,3,3.0,4.0
+12,True,291619,*Stratford Sardines*,Flat,7,185622,Kernowfornia United,Scott,Renfree-Tuck,26,49,-23,Lose,0,490,502,18,4,8.5,2.0
+12,True,320432,Some Solanke-Panky?,Alex,Turnbull,336507,Average,,,55,37,18,Win,3,462,478,18,5,1.0,5.0
+12,True,185528,Easy Three Points,Jonathan,Ako,327410,Eleven Hags,Liam,Thaker,26,34,-8,Lose,0,448,485,18,6,8.5,7.0
+12,True,336507,Average,,,320432,Some Solanke-Panky?,Alex,Turnbull,37,55,-18,Lose,0,469,459,16,7,5.0,1.0
+12,True,285674,CripplingHannover96,Ryan,McIntyre,229876,Boom Boom Eagle FC,Sam,Thorpe,36,25,11,Win,3,482,469,15,8,6.0,10.0
+12,True,321053,Up the Ding,Matthew,Stent,328396,TAA very much,James,Mason,44,46,-2,Lose,0,450,447,15,9,4.0,3.0
+12,True,327410,Eleven Hags,Liam,Thaker,185528,Easy Three Points,Jonathan,Ako,34,26,8,Win,3,421,482,13,10,7.0,8.5
+13,True,229876,Boom Boom Eagle FC,Sam,Thorpe,185528,Easy Three Points,Jonathan,Ako,37,41,-4,Lose,0,523,485,23,1,8.0,6.0
+13,True,328396,TAA very much,James,Mason,320432,Some Solanke-Panky?,Alex,Turnbull,60,60,0,Draw,1,548,549,22,2,1.5,1.5
+13,True,185622,Kernowfornia United,Scott,Renfree-Tuck,285674,CripplingHannover96,Ryan,McIntyre,29,31,-2,Lose,0,569,512,21,3,10.0,9.0
+13,True,185528,Easy Three Points,Jonathan,Ako,229876,Boom Boom Eagle FC,Sam,Thorpe,41,37,4,Win,3,489,522,21,4,6.0,8.0
+13,True,320432,Some Solanke-Panky?,Alex,Turnbull,328396,TAA very much,James,Mason,60,60,0,Draw,1,522,538,19,5,1.5,1.5
+13,True,336507,Average,,,291619,*Stratford Sardines*,Flat,7,45,40,5,Win,3,514,499,19,6,5.0,7.0
+13,True,291619,*Stratford Sardines*,Flat,7,336507,Average,,,40,45,-5,Lose,0,530,547,18,7,7.0,5.0
+13,True,285674,CripplingHannover96,Ryan,McIntyre,185622,Kernowfornia United,Scott,Renfree-Tuck,31,29,2,Win,3,513,498,18,8,9.0,10.0
+13,True,321053,Up the Ding,Matthew,Stent,327410,Eleven Hags,Liam,Thaker,59,55,4,Win,3,509,502,18,9,3.0,4.0
+13,True,327410,Eleven Hags,Liam,Thaker,321053,Up the Ding,Matthew,Stent,55,59,-4,Lose,0,476,541,13,10,4.0,3.0
+14,True,229876,Boom Boom Eagle FC,Sam,Thorpe,320432,Some Solanke-Panky?,Alex,Turnbull,48,37,11,Win,3,571,522,26,1,2.5,7.0
+14,True,328396,TAA very much,James,Mason,185528,Easy Three Points,Jonathan,Ako,37,23,14,Win,3,585,572,25,2,7.0,10.0
+14,True,185622,Kernowfornia United,Scott,Renfree-Tuck,321053,Up the Ding,Matthew,Stent,48,37,11,Win,3,617,549,24,3,2.5,7.0
+14,True,285674,CripplingHannover96,Ryan,McIntyre,291619,*Stratford Sardines*,Flat,7,56,35,21,Win,3,569,533,21,4,1.0,9.0
+14,True,185528,Easy Three Points,Jonathan,Ako,328396,TAA very much,James,Mason,23,37,-14,Lose,0,512,559,21,5,10.0,7.0
+14,True,320432,Some Solanke-Panky?,Alex,Turnbull,229876,Boom Boom Eagle FC,Sam,Thorpe,37,48,-11,Lose,0,559,586,19,6,7.0,2.5
+14,True,336507,Average,,,327410,Eleven Hags,Liam,Thaker,40,47,-7,Lose,0,554,546,19,7,5.0,4.0
+14,True,291619,*Stratford Sardines*,Flat,7,285674,CripplingHannover96,Ryan,McIntyre,35,56,-21,Lose,0,565,603,18,8,9.0,1.0
+14,True,321053,Up the Ding,Matthew,Stent,185622,Kernowfornia United,Scott,Renfree-Tuck,37,48,-11,Lose,0,546,550,18,9,7.0,2.5
+14,True,327410,Eleven Hags,Liam,Thaker,336507,Average,,,47,40,7,Win,3,523,581,16,10,4.0,5.0
+15,True,229876,Boom Boom Eagle FC,Sam,Thorpe,291619,*Stratford Sardines*,Flat,7,43,37,6,Win,3,614,559,29,1,2.0,4.0
+15,True,185622,Kernowfornia United,Scott,Renfree-Tuck,320432,Some Solanke-Panky?,Alex,Turnbull,44,34,10,Win,3,661,583,27,2,1.0,6.5
+15,True,328396,TAA very much,James,Mason,327410,Eleven Hags,Liam,Thaker,21,32,-11,Lose,0,606,604,25,3,10.0,8.5
+15,True,185528,Easy Three Points,Jonathan,Ako,285674,CripplingHannover96,Ryan,McIntyre,38,34,4,Win,3,550,593,24,4,3.0,6.5
+15,True,336507,Average,,,321053,Up the Ding,Matthew,Stent,35,32,3,Win,3,589,578,22,5,5.0,8.5
+15,True,285674,CripplingHannover96,Ryan,McIntyre,185528,Easy Three Points,Jonathan,Ako,34,38,-4,Lose,0,603,571,21,6,6.5,3.0
+15,True,320432,Some Solanke-Panky?,Alex,Turnbull,185622,Kernowfornia United,Scott,Renfree-Tuck,34,44,-10,Lose,0,593,630,19,7,6.5,1.0
+15,True,327410,Eleven Hags,Liam,Thaker,328396,TAA very much,James,Mason,32,21,11,Win,3,555,602,19,8,8.5,10.0
+15,True,291619,*Stratford Sardines*,Flat,7,229876,Boom Boom Eagle FC,Sam,Thorpe,37,43,-6,Lose,0,602,646,18,9,4.0,2.0
+15,True,321053,Up the Ding,Matthew,Stent,336507,Average,,,32,35,-3,Lose,0,578,585,18,10,8.5,5.0
+16,False,229876,Boom Boom Eagle FC,Sam,Thorpe,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,614,559,30,1,5.5,5.5
+16,False,185622,Kernowfornia United,Scott,Renfree-Tuck,328396,TAA very much,James,Mason,0,0,0,Draw,1,661,583,28,2,5.5,5.5
+16,False,328396,TAA very much,James,Mason,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,606,604,26,3,5.5,5.5
+16,False,185528,Easy Three Points,Jonathan,Ako,336507,Average,,,0,0,0,Draw,1,550,593,25,4,5.5,5.5
+16,False,336507,Average,,,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,589,578,23,5,5.5,5.5
+16,False,285674,CripplingHannover96,Ryan,McIntyre,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,603,571,22,6,5.5,5.5
+16,False,320432,Some Solanke-Panky?,Alex,Turnbull,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,593,630,20,7,5.5,5.5
+16,False,327410,Eleven Hags,Liam,Thaker,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,555,602,20,8,5.5,5.5
+16,False,291619,*Stratford Sardines*,Flat,7,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,602,646,19,9,5.5,5.5
+16,False,321053,Up the Ding,Matthew,Stent,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,578,585,19,10,5.5,5.5
+17,False,229876,Boom Boom Eagle FC,Sam,Thorpe,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,614,559,31,1,5.5,5.5
+17,False,185622,Kernowfornia United,Scott,Renfree-Tuck,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,661,583,29,2,5.5,5.5
+17,False,328396,TAA very much,James,Mason,336507,Average,,,0,0,0,Draw,1,606,604,27,3,5.5,5.5
+17,False,185528,Easy Three Points,Jonathan,Ako,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,550,593,26,4,5.5,5.5
+17,False,336507,Average,,,328396,TAA very much,James,Mason,0,0,0,Draw,1,589,578,24,5,5.5,5.5
+17,False,285674,CripplingHannover96,Ryan,McIntyre,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,603,571,23,6,5.5,5.5
+17,False,320432,Some Solanke-Panky?,Alex,Turnbull,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,593,630,21,7,5.5,5.5
+17,False,327410,Eleven Hags,Liam,Thaker,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,555,602,21,8,5.5,5.5
+17,False,291619,*Stratford Sardines*,Flat,7,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,602,646,20,9,5.5,5.5
+17,False,321053,Up the Ding,Matthew,Stent,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,578,585,20,10,5.5,5.5
+18,False,229876,Boom Boom Eagle FC,Sam,Thorpe,328396,TAA very much,James,Mason,0,0,0,Draw,1,614,559,32,1,5.5,5.5
+18,False,185622,Kernowfornia United,Scott,Renfree-Tuck,336507,Average,,,0,0,0,Draw,1,661,583,30,2,5.5,5.5
+18,False,328396,TAA very much,James,Mason,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,606,604,28,3,5.5,5.5
+18,False,185528,Easy Three Points,Jonathan,Ako,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,550,593,27,4,5.5,5.5
+18,False,336507,Average,,,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,589,578,25,5,5.5,5.5
+18,False,285674,CripplingHannover96,Ryan,McIntyre,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,603,571,24,6,5.5,5.5
+18,False,320432,Some Solanke-Panky?,Alex,Turnbull,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,593,630,22,7,5.5,5.5
+18,False,327410,Eleven Hags,Liam,Thaker,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,555,602,22,8,5.5,5.5
+18,False,291619,*Stratford Sardines*,Flat,7,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,602,646,21,9,5.5,5.5
+18,False,321053,Up the Ding,Matthew,Stent,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,578,585,21,10,5.5,5.5
+19,False,229876,Boom Boom Eagle FC,Sam,Thorpe,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,614,559,33,1,5.5,5.5
+19,False,185622,Kernowfornia United,Scott,Renfree-Tuck,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,661,583,31,2,5.5,5.5
+19,False,328396,TAA very much,James,Mason,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,606,604,29,3,5.5,5.5
+19,False,185528,Easy Three Points,Jonathan,Ako,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,550,593,28,4,5.5,5.5
+19,False,336507,Average,,,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,589,578,26,5,5.5,5.5
+19,False,285674,CripplingHannover96,Ryan,McIntyre,336507,Average,,,0,0,0,Draw,1,603,571,25,6,5.5,5.5
+19,False,320432,Some Solanke-Panky?,Alex,Turnbull,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,593,630,23,7,5.5,5.5
+19,False,327410,Eleven Hags,Liam,Thaker,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,555,602,23,8,5.5,5.5
+19,False,291619,*Stratford Sardines*,Flat,7,328396,TAA very much,James,Mason,0,0,0,Draw,1,602,646,22,9,5.5,5.5
+19,False,321053,Up the Ding,Matthew,Stent,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,578,585,22,10,5.5,5.5
+20,False,229876,Boom Boom Eagle FC,Sam,Thorpe,336507,Average,,,0,0,0,Draw,1,614,559,34,1,5.5,5.5
+20,False,185622,Kernowfornia United,Scott,Renfree-Tuck,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,661,583,32,2,5.5,5.5
+20,False,328396,TAA very much,James,Mason,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,606,604,30,3,5.5,5.5
+20,False,185528,Easy Three Points,Jonathan,Ako,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,550,593,29,4,5.5,5.5
+20,False,336507,Average,,,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,589,578,27,5,5.5,5.5
+20,False,285674,CripplingHannover96,Ryan,McIntyre,328396,TAA very much,James,Mason,0,0,0,Draw,1,603,571,26,6,5.5,5.5
+20,False,320432,Some Solanke-Panky?,Alex,Turnbull,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,593,630,24,7,5.5,5.5
+20,False,327410,Eleven Hags,Liam,Thaker,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,555,602,24,8,5.5,5.5
+20,False,291619,*Stratford Sardines*,Flat,7,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,602,646,23,9,5.5,5.5
+20,False,321053,Up the Ding,Matthew,Stent,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,578,585,23,10,5.5,5.5
+21,False,229876,Boom Boom Eagle FC,Sam,Thorpe,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,614,559,35,1,5.5,5.5
+21,False,185622,Kernowfornia United,Scott,Renfree-Tuck,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,661,583,33,2,5.5,5.5
+21,False,328396,TAA very much,James,Mason,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,606,604,31,3,5.5,5.5
+21,False,185528,Easy Three Points,Jonathan,Ako,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,550,593,30,4,5.5,5.5
+21,False,336507,Average,,,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,589,578,28,5,5.5,5.5
+21,False,285674,CripplingHannover96,Ryan,McIntyre,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,603,571,27,6,5.5,5.5
+21,False,320432,Some Solanke-Panky?,Alex,Turnbull,336507,Average,,,0,0,0,Draw,1,593,630,25,7,5.5,5.5
+21,False,327410,Eleven Hags,Liam,Thaker,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,555,602,25,8,5.5,5.5
+21,False,291619,*Stratford Sardines*,Flat,7,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,602,646,24,9,5.5,5.5
+21,False,321053,Up the Ding,Matthew,Stent,328396,TAA very much,James,Mason,0,0,0,Draw,1,578,585,24,10,5.5,5.5
+22,False,229876,Boom Boom Eagle FC,Sam,Thorpe,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,614,559,36,1,5.5,5.5
+22,False,185622,Kernowfornia United,Scott,Renfree-Tuck,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,661,583,34,2,5.5,5.5
+22,False,328396,TAA very much,James,Mason,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,606,604,32,3,5.5,5.5
+22,False,185528,Easy Three Points,Jonathan,Ako,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,550,593,31,4,5.5,5.5
+22,False,336507,Average,,,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,589,578,29,5,5.5,5.5
+22,False,285674,CripplingHannover96,Ryan,McIntyre,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,603,571,28,6,5.5,5.5
+22,False,320432,Some Solanke-Panky?,Alex,Turnbull,328396,TAA very much,James,Mason,0,0,0,Draw,1,593,630,26,7,5.5,5.5
+22,False,327410,Eleven Hags,Liam,Thaker,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,555,602,26,8,5.5,5.5
+22,False,291619,*Stratford Sardines*,Flat,7,336507,Average,,,0,0,0,Draw,1,602,646,25,9,5.5,5.5
+22,False,321053,Up the Ding,Matthew,Stent,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,578,585,25,10,5.5,5.5
+23,False,229876,Boom Boom Eagle FC,Sam,Thorpe,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,614,559,37,1,5.5,5.5
+23,False,185622,Kernowfornia United,Scott,Renfree-Tuck,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,661,583,35,2,5.5,5.5
+23,False,328396,TAA very much,James,Mason,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,606,604,33,3,5.5,5.5
+23,False,185528,Easy Three Points,Jonathan,Ako,328396,TAA very much,James,Mason,0,0,0,Draw,1,550,593,32,4,5.5,5.5
+23,False,336507,Average,,,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,589,578,30,5,5.5,5.5
+23,False,285674,CripplingHannover96,Ryan,McIntyre,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,603,571,29,6,5.5,5.5
+23,False,320432,Some Solanke-Panky?,Alex,Turnbull,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,593,630,27,7,5.5,5.5
+23,False,327410,Eleven Hags,Liam,Thaker,336507,Average,,,0,0,0,Draw,1,555,602,27,8,5.5,5.5
+23,False,291619,*Stratford Sardines*,Flat,7,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,602,646,26,9,5.5,5.5
+23,False,321053,Up the Ding,Matthew,Stent,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,578,585,26,10,5.5,5.5
+24,False,229876,Boom Boom Eagle FC,Sam,Thorpe,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,614,559,38,1,5.5,5.5
+24,False,185622,Kernowfornia United,Scott,Renfree-Tuck,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,661,583,36,2,5.5,5.5
+24,False,328396,TAA very much,James,Mason,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,606,604,34,3,5.5,5.5
+24,False,185528,Easy Three Points,Jonathan,Ako,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,550,593,33,4,5.5,5.5
+24,False,336507,Average,,,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,589,578,31,5,5.5,5.5
+24,False,285674,CripplingHannover96,Ryan,McIntyre,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,603,571,30,6,5.5,5.5
+24,False,320432,Some Solanke-Panky?,Alex,Turnbull,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,593,630,28,7,5.5,5.5
+24,False,327410,Eleven Hags,Liam,Thaker,328396,TAA very much,James,Mason,0,0,0,Draw,1,555,602,28,8,5.5,5.5
+24,False,291619,*Stratford Sardines*,Flat,7,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,602,646,27,9,5.5,5.5
+24,False,321053,Up the Ding,Matthew,Stent,336507,Average,,,0,0,0,Draw,1,578,585,27,10,5.5,5.5
+25,False,229876,Boom Boom Eagle FC,Sam,Thorpe,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,614,559,39,1,5.5,5.5
+25,False,185622,Kernowfornia United,Scott,Renfree-Tuck,328396,TAA very much,James,Mason,0,0,0,Draw,1,661,583,37,2,5.5,5.5
+25,False,328396,TAA very much,James,Mason,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,606,604,35,3,5.5,5.5
+25,False,185528,Easy Three Points,Jonathan,Ako,336507,Average,,,0,0,0,Draw,1,550,593,34,4,5.5,5.5
+25,False,336507,Average,,,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,589,578,32,5,5.5,5.5
+25,False,285674,CripplingHannover96,Ryan,McIntyre,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,603,571,31,6,5.5,5.5
+25,False,320432,Some Solanke-Panky?,Alex,Turnbull,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,593,630,29,7,5.5,5.5
+25,False,327410,Eleven Hags,Liam,Thaker,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,555,602,29,8,5.5,5.5
+25,False,291619,*Stratford Sardines*,Flat,7,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,602,646,28,9,5.5,5.5
+25,False,321053,Up the Ding,Matthew,Stent,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,578,585,28,10,5.5,5.5
+26,False,229876,Boom Boom Eagle FC,Sam,Thorpe,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,614,559,40,1,5.5,5.5
+26,False,185622,Kernowfornia United,Scott,Renfree-Tuck,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,661,583,38,2,5.5,5.5
+26,False,328396,TAA very much,James,Mason,336507,Average,,,0,0,0,Draw,1,606,604,36,3,5.5,5.5
+26,False,185528,Easy Three Points,Jonathan,Ako,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,550,593,35,4,5.5,5.5
+26,False,336507,Average,,,328396,TAA very much,James,Mason,0,0,0,Draw,1,589,578,33,5,5.5,5.5
+26,False,285674,CripplingHannover96,Ryan,McIntyre,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,603,571,32,6,5.5,5.5
+26,False,320432,Some Solanke-Panky?,Alex,Turnbull,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,593,630,30,7,5.5,5.5
+26,False,327410,Eleven Hags,Liam,Thaker,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,555,602,30,8,5.5,5.5
+26,False,291619,*Stratford Sardines*,Flat,7,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,602,646,29,9,5.5,5.5
+26,False,321053,Up the Ding,Matthew,Stent,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,578,585,29,10,5.5,5.5
+27,False,229876,Boom Boom Eagle FC,Sam,Thorpe,328396,TAA very much,James,Mason,0,0,0,Draw,1,614,559,41,1,5.5,5.5
+27,False,185622,Kernowfornia United,Scott,Renfree-Tuck,336507,Average,,,0,0,0,Draw,1,661,583,39,2,5.5,5.5
+27,False,328396,TAA very much,James,Mason,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,606,604,37,3,5.5,5.5
+27,False,185528,Easy Three Points,Jonathan,Ako,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,550,593,36,4,5.5,5.5
+27,False,336507,Average,,,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,589,578,34,5,5.5,5.5
+27,False,285674,CripplingHannover96,Ryan,McIntyre,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,603,571,33,6,5.5,5.5
+27,False,320432,Some Solanke-Panky?,Alex,Turnbull,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,593,630,31,7,5.5,5.5
+27,False,327410,Eleven Hags,Liam,Thaker,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,555,602,31,8,5.5,5.5
+27,False,291619,*Stratford Sardines*,Flat,7,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,602,646,30,9,5.5,5.5
+27,False,321053,Up the Ding,Matthew,Stent,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,578,585,30,10,5.5,5.5
+28,False,229876,Boom Boom Eagle FC,Sam,Thorpe,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,614,559,42,1,5.5,5.5
+28,False,185622,Kernowfornia United,Scott,Renfree-Tuck,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,661,583,40,2,5.5,5.5
+28,False,328396,TAA very much,James,Mason,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,606,604,38,3,5.5,5.5
+28,False,185528,Easy Three Points,Jonathan,Ako,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,550,593,37,4,5.5,5.5
+28,False,336507,Average,,,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,589,578,35,5,5.5,5.5
+28,False,285674,CripplingHannover96,Ryan,McIntyre,336507,Average,,,0,0,0,Draw,1,603,571,34,6,5.5,5.5
+28,False,320432,Some Solanke-Panky?,Alex,Turnbull,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,593,630,32,7,5.5,5.5
+28,False,327410,Eleven Hags,Liam,Thaker,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,555,602,32,8,5.5,5.5
+28,False,291619,*Stratford Sardines*,Flat,7,328396,TAA very much,James,Mason,0,0,0,Draw,1,602,646,31,9,5.5,5.5
+28,False,321053,Up the Ding,Matthew,Stent,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,578,585,31,10,5.5,5.5
+29,False,229876,Boom Boom Eagle FC,Sam,Thorpe,336507,Average,,,0,0,0,Draw,1,614,559,43,1,5.5,5.5
+29,False,185622,Kernowfornia United,Scott,Renfree-Tuck,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,661,583,41,2,5.5,5.5
+29,False,328396,TAA very much,James,Mason,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,606,604,39,3,5.5,5.5
+29,False,185528,Easy Three Points,Jonathan,Ako,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,550,593,38,4,5.5,5.5
+29,False,336507,Average,,,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,589,578,36,5,5.5,5.5
+29,False,285674,CripplingHannover96,Ryan,McIntyre,328396,TAA very much,James,Mason,0,0,0,Draw,1,603,571,35,6,5.5,5.5
+29,False,320432,Some Solanke-Panky?,Alex,Turnbull,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,593,630,33,7,5.5,5.5
+29,False,327410,Eleven Hags,Liam,Thaker,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,555,602,33,8,5.5,5.5
+29,False,291619,*Stratford Sardines*,Flat,7,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,602,646,32,9,5.5,5.5
+29,False,321053,Up the Ding,Matthew,Stent,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,578,585,32,10,5.5,5.5
+30,False,229876,Boom Boom Eagle FC,Sam,Thorpe,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,614,559,44,1,5.5,5.5
+30,False,185622,Kernowfornia United,Scott,Renfree-Tuck,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,661,583,42,2,5.5,5.5
+30,False,328396,TAA very much,James,Mason,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,606,604,40,3,5.5,5.5
+30,False,185528,Easy Three Points,Jonathan,Ako,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,550,593,39,4,5.5,5.5
+30,False,336507,Average,,,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,589,578,37,5,5.5,5.5
+30,False,285674,CripplingHannover96,Ryan,McIntyre,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,603,571,36,6,5.5,5.5
+30,False,320432,Some Solanke-Panky?,Alex,Turnbull,336507,Average,,,0,0,0,Draw,1,593,630,34,7,5.5,5.5
+30,False,327410,Eleven Hags,Liam,Thaker,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,555,602,34,8,5.5,5.5
+30,False,291619,*Stratford Sardines*,Flat,7,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,602,646,33,9,5.5,5.5
+30,False,321053,Up the Ding,Matthew,Stent,328396,TAA very much,James,Mason,0,0,0,Draw,1,578,585,33,10,5.5,5.5
+31,False,229876,Boom Boom Eagle FC,Sam,Thorpe,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,614,559,45,1,5.5,5.5
+31,False,185622,Kernowfornia United,Scott,Renfree-Tuck,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,661,583,43,2,5.5,5.5
+31,False,328396,TAA very much,James,Mason,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,606,604,41,3,5.5,5.5
+31,False,185528,Easy Three Points,Jonathan,Ako,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,550,593,40,4,5.5,5.5
+31,False,336507,Average,,,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,589,578,38,5,5.5,5.5
+31,False,285674,CripplingHannover96,Ryan,McIntyre,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,603,571,37,6,5.5,5.5
+31,False,320432,Some Solanke-Panky?,Alex,Turnbull,328396,TAA very much,James,Mason,0,0,0,Draw,1,593,630,35,7,5.5,5.5
+31,False,327410,Eleven Hags,Liam,Thaker,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,555,602,35,8,5.5,5.5
+31,False,291619,*Stratford Sardines*,Flat,7,336507,Average,,,0,0,0,Draw,1,602,646,34,9,5.5,5.5
+31,False,321053,Up the Ding,Matthew,Stent,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,578,585,34,10,5.5,5.5
+32,False,229876,Boom Boom Eagle FC,Sam,Thorpe,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,614,559,46,1,5.5,5.5
+32,False,185622,Kernowfornia United,Scott,Renfree-Tuck,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,661,583,44,2,5.5,5.5
+32,False,328396,TAA very much,James,Mason,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,606,604,42,3,5.5,5.5
+32,False,185528,Easy Three Points,Jonathan,Ako,328396,TAA very much,James,Mason,0,0,0,Draw,1,550,593,41,4,5.5,5.5
+32,False,336507,Average,,,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,589,578,39,5,5.5,5.5
+32,False,285674,CripplingHannover96,Ryan,McIntyre,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,603,571,38,6,5.5,5.5
+32,False,320432,Some Solanke-Panky?,Alex,Turnbull,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,593,630,36,7,5.5,5.5
+32,False,327410,Eleven Hags,Liam,Thaker,336507,Average,,,0,0,0,Draw,1,555,602,36,8,5.5,5.5
+32,False,291619,*Stratford Sardines*,Flat,7,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,602,646,35,9,5.5,5.5
+32,False,321053,Up the Ding,Matthew,Stent,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,578,585,35,10,5.5,5.5
+33,False,229876,Boom Boom Eagle FC,Sam,Thorpe,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,614,559,47,1,5.5,5.5
+33,False,185622,Kernowfornia United,Scott,Renfree-Tuck,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,661,583,45,2,5.5,5.5
+33,False,328396,TAA very much,James,Mason,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,606,604,43,3,5.5,5.5
+33,False,185528,Easy Three Points,Jonathan,Ako,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,550,593,42,4,5.5,5.5
+33,False,336507,Average,,,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,589,578,40,5,5.5,5.5
+33,False,285674,CripplingHannover96,Ryan,McIntyre,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,603,571,39,6,5.5,5.5
+33,False,320432,Some Solanke-Panky?,Alex,Turnbull,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,593,630,37,7,5.5,5.5
+33,False,327410,Eleven Hags,Liam,Thaker,328396,TAA very much,James,Mason,0,0,0,Draw,1,555,602,37,8,5.5,5.5
+33,False,291619,*Stratford Sardines*,Flat,7,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,602,646,36,9,5.5,5.5
+33,False,321053,Up the Ding,Matthew,Stent,336507,Average,,,0,0,0,Draw,1,578,585,36,10,5.5,5.5
+34,False,229876,Boom Boom Eagle FC,Sam,Thorpe,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,614,559,48,1,5.5,5.5
+34,False,185622,Kernowfornia United,Scott,Renfree-Tuck,328396,TAA very much,James,Mason,0,0,0,Draw,1,661,583,46,2,5.5,5.5
+34,False,328396,TAA very much,James,Mason,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,606,604,44,3,5.5,5.5
+34,False,185528,Easy Three Points,Jonathan,Ako,336507,Average,,,0,0,0,Draw,1,550,593,43,4,5.5,5.5
+34,False,336507,Average,,,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,589,578,41,5,5.5,5.5
+34,False,285674,CripplingHannover96,Ryan,McIntyre,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,603,571,40,6,5.5,5.5
+34,False,320432,Some Solanke-Panky?,Alex,Turnbull,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,593,630,38,7,5.5,5.5
+34,False,327410,Eleven Hags,Liam,Thaker,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,555,602,38,8,5.5,5.5
+34,False,291619,*Stratford Sardines*,Flat,7,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,602,646,37,9,5.5,5.5
+34,False,321053,Up the Ding,Matthew,Stent,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,578,585,37,10,5.5,5.5
+35,False,229876,Boom Boom Eagle FC,Sam,Thorpe,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,614,559,49,1,5.5,5.5
+35,False,185622,Kernowfornia United,Scott,Renfree-Tuck,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,661,583,47,2,5.5,5.5
+35,False,328396,TAA very much,James,Mason,336507,Average,,,0,0,0,Draw,1,606,604,45,3,5.5,5.5
+35,False,185528,Easy Three Points,Jonathan,Ako,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,550,593,44,4,5.5,5.5
+35,False,336507,Average,,,328396,TAA very much,James,Mason,0,0,0,Draw,1,589,578,42,5,5.5,5.5
+35,False,285674,CripplingHannover96,Ryan,McIntyre,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,603,571,41,6,5.5,5.5
+35,False,320432,Some Solanke-Panky?,Alex,Turnbull,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,593,630,39,7,5.5,5.5
+35,False,327410,Eleven Hags,Liam,Thaker,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,555,602,39,8,5.5,5.5
+35,False,291619,*Stratford Sardines*,Flat,7,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,602,646,38,9,5.5,5.5
+35,False,321053,Up the Ding,Matthew,Stent,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,578,585,38,10,5.5,5.5
+36,False,229876,Boom Boom Eagle FC,Sam,Thorpe,328396,TAA very much,James,Mason,0,0,0,Draw,1,614,559,50,1,5.5,5.5
+36,False,185622,Kernowfornia United,Scott,Renfree-Tuck,336507,Average,,,0,0,0,Draw,1,661,583,48,2,5.5,5.5
+36,False,328396,TAA very much,James,Mason,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,606,604,46,3,5.5,5.5
+36,False,185528,Easy Three Points,Jonathan,Ako,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,550,593,45,4,5.5,5.5
+36,False,336507,Average,,,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,589,578,43,5,5.5,5.5
+36,False,285674,CripplingHannover96,Ryan,McIntyre,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,603,571,42,6,5.5,5.5
+36,False,320432,Some Solanke-Panky?,Alex,Turnbull,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,593,630,40,7,5.5,5.5
+36,False,327410,Eleven Hags,Liam,Thaker,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,555,602,40,8,5.5,5.5
+36,False,291619,*Stratford Sardines*,Flat,7,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,602,646,39,9,5.5,5.5
+36,False,321053,Up the Ding,Matthew,Stent,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,578,585,39,10,5.5,5.5
+37,False,229876,Boom Boom Eagle FC,Sam,Thorpe,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,614,559,51,1,5.5,5.5
+37,False,185622,Kernowfornia United,Scott,Renfree-Tuck,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,661,583,49,2,5.5,5.5
+37,False,328396,TAA very much,James,Mason,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,606,604,47,3,5.5,5.5
+37,False,185528,Easy Three Points,Jonathan,Ako,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,550,593,46,4,5.5,5.5
+37,False,336507,Average,,,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,589,578,44,5,5.5,5.5
+37,False,285674,CripplingHannover96,Ryan,McIntyre,336507,Average,,,0,0,0,Draw,1,603,571,43,6,5.5,5.5
+37,False,320432,Some Solanke-Panky?,Alex,Turnbull,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,593,630,41,7,5.5,5.5
+37,False,327410,Eleven Hags,Liam,Thaker,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,555,602,41,8,5.5,5.5
+37,False,291619,*Stratford Sardines*,Flat,7,328396,TAA very much,James,Mason,0,0,0,Draw,1,602,646,40,9,5.5,5.5
+37,False,321053,Up the Ding,Matthew,Stent,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,578,585,40,10,5.5,5.5
+38,False,229876,Boom Boom Eagle FC,Sam,Thorpe,336507,Average,,,0,0,0,Draw,1,614,559,52,1,5.5,5.5
+38,False,185622,Kernowfornia United,Scott,Renfree-Tuck,185528,Easy Three Points,Jonathan,Ako,0,0,0,Draw,1,661,583,50,2,5.5,5.5
+38,False,328396,TAA very much,James,Mason,285674,CripplingHannover96,Ryan,McIntyre,0,0,0,Draw,1,606,604,48,3,5.5,5.5
+38,False,185528,Easy Three Points,Jonathan,Ako,185622,Kernowfornia United,Scott,Renfree-Tuck,0,0,0,Draw,1,550,593,47,4,5.5,5.5
+38,False,336507,Average,,,229876,Boom Boom Eagle FC,Sam,Thorpe,0,0,0,Draw,1,589,578,45,5,5.5,5.5
+38,False,285674,CripplingHannover96,Ryan,McIntyre,328396,TAA very much,James,Mason,0,0,0,Draw,1,603,571,44,6,5.5,5.5
+38,False,320432,Some Solanke-Panky?,Alex,Turnbull,321053,Up the Ding,Matthew,Stent,0,0,0,Draw,1,593,630,42,7,5.5,5.5
+38,False,327410,Eleven Hags,Liam,Thaker,291619,*Stratford Sardines*,Flat,7,0,0,0,Draw,1,555,602,42,8,5.5,5.5
+38,False,291619,*Stratford Sardines*,Flat,7,327410,Eleven Hags,Liam,Thaker,0,0,0,Draw,1,602,646,41,9,5.5,5.5
+38,False,321053,Up the Ding,Matthew,Stent,320432,Some Solanke-Panky?,Alex,Turnbull,0,0,0,Draw,1,578,585,41,10,5.5,5.5
